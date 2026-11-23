@@ -1,0 +1,1 @@
+{% schema %}{"name":"REALZY theme settings","settings":[{"type":"header","content":"Brand"},{"type":"color","id":"ink","label":"Text color","default":"#20221f"},{"type":"color","id":"paper","label":"Background color","default":"#f6f5f0"},{"type":"color","id":"accent","label":"Accent color","default":"#c4e86b"}]}{% endschema %}
